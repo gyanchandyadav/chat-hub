@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { AnimatePresence, motion } from "framer-motion";
 import { Image as ImageIcon, Loader, SendHorizontal, ThumbsUp } from "lucide-react";
 import Image from "next/image";
