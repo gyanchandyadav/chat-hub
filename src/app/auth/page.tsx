@@ -34,9 +34,6 @@ const page = async () => {
 						The <span className='bg-red-500 px-2 font-bold text-white'>ULTIMATE</span> chat app
 					</p>
 
-					<p className='text-2xl md:text-3xl mb-32 text-balance z-10'>
-						You <span className='bg-green-500/90 font-bold px-2 text-white'>NEED TO</span> build
-					</p>
 					<AuthButtons />
 				</div>
 			</div>
